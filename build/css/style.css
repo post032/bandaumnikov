@@ -252,6 +252,7 @@ input[type="radio"].visually-hidden {
   font-family: "Umnik";
   src: url("../fonts/umnik-bold.woff2") format("woff2");
   font-weight: bold;
+  font-style: normal;
 }
 .banner,
 .banners {
@@ -344,7 +345,7 @@ input[type="radio"].visually-hidden {
 }
 .banner__list span {
   font-size: 20px;
-  font-family: "Umnik" sans-serif;
+  font-family: "Umnik";
   color: #000000;
   font-weight: bold;
   line-height: 1.2;
